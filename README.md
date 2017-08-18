@@ -1,6 +1,6 @@
 # PeopleStash
 A side project for collecting &amp; displaying a list of people whose work I admire!
-
+Live at: https://www.peoplestash.com
 
 In our world there are so many inspiring, successful & incredible people whom we admire. Wouldn’t it be nice to have a single location from which to find these people?
 
