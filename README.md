@@ -7,3 +7,6 @@ In our world there are so many inspiring, successful & incredible people whom we
 PeopleStash is a curated list of cool people doing cool things. There are many influential, successful, creative and inspiring people currently listed on PeopleStash, however the list shall continue to grow over time.
 
 People are organised into categories based on their main area of expertise or by their profession. For example, we have categories for Authors, Investors, Product Makers, Founders, Designers, Bloggers, Podcasters etc. 
+
+
+<img alt="Screenshot" width="1200px" src="peoplestash.png">
